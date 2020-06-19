@@ -9,12 +9,6 @@
       "title": "My Stream",
       "description": "Description of stream",
       "id": 2
-    },
-    {
-      "title": "Test Stream",
-      "description": "I change the PUT to PATCH",
-      "userId": "112763243501978901651",
-      "id": 3
     }
   ]
 }
