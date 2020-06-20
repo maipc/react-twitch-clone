@@ -9,6 +9,12 @@
       "title": "My Stream",
       "description": "Description of stream",
       "id": 2
+    },
+    {
+      "title": "Create a stream that has logged in",
+      "description": "This stream is created by me!",
+      "userId": "112763243501978901651",
+      "id": 3
     }
   ]
 }
